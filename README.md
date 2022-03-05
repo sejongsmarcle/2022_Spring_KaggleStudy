@@ -17,7 +17,7 @@
 * 졸업 데이터셋: https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
 * 기한: 5/31까지
 
-**<공통 스터디 데이터셋>
+**<공통 스터디 데이터셋>**
 * 모든 부원이 공통된 데이터셋으로 주차별 주제와 맞게 공부를 해야함.
 * 의의: 스스로 공부할 때 해메지 않게 제공하는 것으로, 공통적인 데이터셋을 다루므로 공통된 지식을 습득할 수 있다.
 * 공통 스터디 데이터셋: https://www.kaggle.com/c/titanic
