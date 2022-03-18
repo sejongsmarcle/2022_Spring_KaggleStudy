@@ -50,7 +50,7 @@ ex) 1팀은 2팀, 3팀은  4팀 끼리 서로 comments 교환 (매 주차 랜덤
 #### <진행 과정>
 | 회차 | 날짜 | 내용 | 다시보기 |
 | --- | --- | --- | --- |
-| 0 | 3/17 | OT -> 스터디 설명 | xx |
+| 0 | 3/17 | OT -> 스터디 설명 | [O.T](https://youtu.be/QZMaCPPNV58) |
 | 1 | 3/28~4/1 | EDA + 전처리 -> pandas, numpy, sklean, keras, tensorflow... | xx |
 | 2 | 5/2~5/6 | 시각화 -> 1 + matplotlib, seaborn... | xx |
 | 3 | 5/16~5/20 | 모델링 -> 1~2 + 머신러닝 or 딥러닝 | xx |
