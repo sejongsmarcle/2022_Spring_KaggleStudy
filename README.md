@@ -51,10 +51,10 @@ ex) 1팀은 2팀, 3팀은  4팀 끼리 서로 comments 교환 (매 주차 랜덤
 | 회차 | 날짜 | 내용 | 다시보기 |
 | --- | --- | --- | --- |
 | 0 | 3/17 | OT -> 스터디 설명 | [O.T](https://youtu.be/lYQMqsAkhQo) |
-| 1 | 3/28~4/1 | EDA + 전처리 -> pandas, numpy, sklean, keras, tensorflow... | xx |
-| 2 | 5/2~5/6 | 시각화 -> 1 + matplotlib, seaborn... | xx |
-| 3 | 5/16~5/20 | 모델링 -> 1~2 + 머신러닝 or 딥러닝 | xx |
-| 4 | 5/23~5/27 | 모델링 -> 1~3 + 머신러닝 or 딥러닝 | xx |
+| 1 | 3/29 | EDA + 전처리 -> pandas, numpy, sklean, keras, tensorflow... | xx |
+| 2 | 5/3 | 시각화 -> 1 + matplotlib, seaborn... | xx |
+| 3 | 5/17 | 모델링 -> 1~2 + 머신러닝 or 딥러닝 | xx |
+| 4 | 5/24 or 5/31 | 모델링 -> 1~3 + 머신러닝 or 딥러닝 | xx |
 
 * 1~2회차까지는 **자유 주제**로 각 팀별로 데이터 셋을 준비
 * 3~4회차는 미리 사전에 카테고리를 투표하고 주어진 데이터 셋을 제공 후, 선정해서 준비
