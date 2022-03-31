@@ -1,4 +1,4 @@
-# 2022 SMARCLE KAGGLE STUDY 1회차 코드
+# 2022 SMARCLE Kaggle Study 1회차 코드
 
 
 ## 공유 노트북
