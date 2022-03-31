@@ -11,7 +11,7 @@
 
 ### 1팀 : 대출상환예측 Home-credit-default-risk
 - [노지민](https://www.kaggle.com/code/emilyjiminroh/eda-visualization)
-- [김범주]()
+- [김범주](https://www.kaggle.com/code/kimbumju/home-credit-default-risk-eda)
 - [김수환](https://www.kaggle.com/code/swan706/eda-and-visualization)
 - [김민솔](https://www.kaggle.com/code/kimminsol/home-credit-default-risk)
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle)
