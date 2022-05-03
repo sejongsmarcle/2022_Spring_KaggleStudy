@@ -1,1 +1,0 @@
-[4팀_[EDA]COVID-19 Healthy Diet](https://www.kaggle.com/code/formeforu/team-4-eda-for-covid-19-health#3.5.-EDA---%EC%98%81%EC%96%91%EA%B2%B0%ED%95%8D%EB%A5%A0%EA%B3%BC-COVID-19-%EC%82%AC%EB%A7%9D%EB%A5%A0,-%EC%B9%98%EB%AA%85%EB%A5%A0%EC%9D%98-%EA%B4%80%EA%B3%84)
