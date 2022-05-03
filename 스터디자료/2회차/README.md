@@ -5,14 +5,14 @@
 - [1팀_name]()
 - [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
 - [3팀_name]()
-- [4팀_[Team 4] Visualization for Heart Failure Dataset](https://www.kaggle.com/code/formeforu/team-4-visualization-for-heart-failure-dataset)
+- [4팀_name]()
 
 ## 개인 노트북
 
 ### 1팀 : dataset
 - [노지민]()
 - [김범주]()
-- [김수환]()
+- [김수환](https://www.kaggle.com/code/swan706/netflix-dataset-eda-visualization)
 - [김민솔]()
 - [이재표]()
 
