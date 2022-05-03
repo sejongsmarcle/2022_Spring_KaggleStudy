@@ -3,7 +3,7 @@
 
 ## 공유 노트북
 - [1팀_name]()
-- [2팀_name]()
+- [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
 - [3팀_name]()
 - [4팀_name]()
 
@@ -17,11 +17,11 @@
 - [이재표]()
 
 ### 2팀 : dataset
-- [정유찬]()
-- [이용빈]()
-- [김지은]()
+- [정유찬](https://www.kaggle.com/junguchan/faang-stocks-covid19-visualization-by-date)
+- [이용빈](https://www.kaggle.com/code/leeyongbin/faang-stock-data-visualization/notebook)
+- [김지은](https://www.kaggle.com/code/kimdobby/faang-stocks-covid19/notebook)
 - [전주혁]()
-- [유정수]()     
+- [유정수](https://www.kaggle.com/code/ryujungsoo/faang-stocks-covid19)     
         
 ### 3팀 : dataset
 - [강민수]()
@@ -29,7 +29,7 @@
 - [김용현]()
 - [최원서]()
 
-### 4팀
+### 4팀 : dataset
 - [송지원]()
 - [유지원]()
 - [유혁재]()
