@@ -4,8 +4,8 @@
 ## 공유 노트북
 - [1팀_name]()
 - [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
-- [3팀_[Team 4] Visualization for Heart Failure Dataset](https://www.kaggle.com/code/formeforu/team-4-visualization-for-heart-failure-dataset)
-- [4팀_name]()
+- [3팀 name]()
+- [4팀__[Team 4] Visualization for Heart Failure Dataset](https://www.kaggle.com/code/formeforu/team-4-visualization-for-heart-failure-dataset)
 
 ## 개인 노트북
 
