@@ -23,13 +23,13 @@
 - [전주혁](https://www.kaggle.com/code/wngur0313/air-pollution-of-seoul/notebook?scriptVersionId=91642190)
 - [유정수](https://www.kaggle.com/code/ryujungsoo/seoul-air-pollution)       
         
-### 3팀
+### 3팀 : Bike Sharing Demand
 - [강민수](https://www.kaggle.com/code/alstn38/first-bike-notebook?scriptVersionId=91052584)
 - [강인영](https://www.kaggle.com/code/inyeongkang/2022-smarcle-kaggle-study-bike-demand-kiy)
 - [김용현](https://www.kaggle.com/code/mirhyun0508/bike-sharing-demand-only-data-analsis-and-eda?scriptVersionId=91278941)
 - [최원서](https://www.kaggle.com/code/cwonseo/cws-bikesharing)
 
-### 4팀
+### 4팀 : COVID-19 Healthy Diet Dataset
 - [송지원](https://www.kaggle.com/code/song3song/covid-19-diet)
 - [유지원](https://www.kaggle.com/code/jiyajiwon/smarcle-4-ryu-eda-for-covid-19-health/notebook)
 - [유혁재](https://www.kaggle.com/code/dbgurwo/smarcle-w1-covid-19-diet)
