@@ -31,7 +31,7 @@
 
 ### 4팀 : dataset
 - [송지원]()
-- [유지원]()
+- [유지원](https://www.kaggle.com/code/jiyajiwon/visualization-heart-failure-prediction)
 - [유혁재]()
 - [한규탁]()
 
