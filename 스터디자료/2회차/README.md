@@ -25,7 +25,7 @@
         
 ### 3팀 : dataset
 - [강민수]()
-- [강인영]()
+- [강인영](https://www.kaggle.com/code/inyeongkang/pubg-only-eda)
 - [김용현]()
 - [최원서]()
 
