@@ -16,7 +16,7 @@
 - [김민솔]()
 - [이재표]()
 
-### 2팀 : dataset
+### 2팀 : FAANG stocks covid19(01/01/2020-04/01/2022)
 - [정유찬](https://www.kaggle.com/junguchan/faang-stocks-covid19-visualization-by-date)
 - [이용빈](https://www.kaggle.com/code/leeyongbin/faang-stock-data-visualization/notebook)
 - [김지은](https://www.kaggle.com/code/kimdobby/faang-stocks-covid19/notebook)
