@@ -9,7 +9,7 @@
 
 ## 개인 노트북
 
-### 1팀 : dataset
+### 1팀 : Netflix_icon_word_cloud
 - [노지민]()
 - [김범주]()
 - [김수환](https://www.kaggle.com/code/swan706/netflix-dataset-eda-visualization)
@@ -23,13 +23,13 @@
 - [전주혁]()
 - [유정수](https://www.kaggle.com/code/ryujungsoo/faang-stocks-covid19)     
         
-### 3팀 : dataset
+### 3팀 : PUBG Finish Placement Prediction (Kernels Only)
 - [강민수]()
 - [강인영](https://www.kaggle.com/code/inyeongkang/pubg-only-eda)
 - [김용현]()
 - [최원서](https://www.kaggle.com/code/cwonseo/smarcle-ai-kaggle-study-pubg-cws)
 
-### 4팀 : dataset
+### 4팀 : Heart Failure Prediction
 - [송지원]()
 - [유지원](https://www.kaggle.com/code/jiyajiwon/visualization-heart-failure-prediction)
 - [유혁재]()
