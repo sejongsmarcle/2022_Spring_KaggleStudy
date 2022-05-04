@@ -33,5 +33,6 @@
 - [송지원]()
 - [유지원](https://www.kaggle.com/code/jiyajiwon/visualization-heart-failure-prediction)
 - [유혁재]()
+- [김병주]()
 - [한규탁]()
 
