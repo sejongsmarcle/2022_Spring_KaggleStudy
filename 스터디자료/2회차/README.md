@@ -2,7 +2,7 @@
 
 
 ## 공유 노트북
-- [1팀_name](https://www.kaggle.com/code/emilyjiminroh/netflix-dataset-eda-visualization-team1)
+- [1팀_netflix-dataset](https://www.kaggle.com/code/emilyjiminroh/netflix-dataset-eda-visualization-team1)
 - [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
 - [3팀_name]()
 - [4팀_name]()
