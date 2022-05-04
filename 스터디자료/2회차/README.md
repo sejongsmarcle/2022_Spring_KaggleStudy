@@ -2,7 +2,7 @@
 
 
 ## 공유 노트북
-- [1팀_name]()
+- [1팀_name](https://www.kaggle.com/code/emilyjiminroh/netflix-dataset-eda-visualization-team1)
 - [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
 - [3팀_name]()
 - [4팀_name]()
@@ -10,11 +10,11 @@
 ## 개인 노트북
 
 ### 1팀 : Netflix_icon_word_cloud
-- [노지민]()
-- [김범주]()
+- [노지민](https://www.kaggle.com/code/emilyjiminroh/visualization-netflix-data-analysis)
+- [김범주](https://www.kaggle.com/code/kimbumju/datd-visualization-with-netflix)
 - [김수환](https://www.kaggle.com/code/swan706/netflix-dataset-eda-visualization)
-- [김민솔]()
-- [이재표]()
+- [김민솔](https://www.kaggle.com/code/kimminsol/netflixdata-visiualize)
+- [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-kaggle-study-2)
 
 ### 2팀 : FAANG stocks covid19(01/01/2020-04/01/2022)
 - [정유찬](https://www.kaggle.com/junguchan/faang-stocks-covid19-visualization-by-date)
