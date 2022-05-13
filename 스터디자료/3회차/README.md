@@ -32,6 +32,6 @@
 ### 4팀 : dataset
 - [송지원]()
 - [유지원](https://www.kaggle.com/jiyajiwon/surface-crack-detection-using-cnn)
-- [유혁재]()
+- [유혁재](https://www.kaggle.com/dbgurwo/surface-crack-detection-cnn)
 - [한규탁]()
 
