@@ -31,7 +31,7 @@
 
 ### 4팀 : dataset
 - [송지원]()
-- [유지원](https://www.kaggle.com/code/kutaykutlu/99-9-acc-resnet50-inceptionv3-vgg16)
+- [유지원](https://www.kaggle.com/jiyajiwon/surface-crack-detection-using-cnn)
 - [유혁재]()
 - [한규탁]()
 
