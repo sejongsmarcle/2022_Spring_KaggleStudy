@@ -4,7 +4,7 @@
 ## 공유 노트북
 - [1팀_netflix-dataset](https://www.kaggle.com/code/emilyjiminroh/netflix-dataset-eda-visualization-team1)
 - [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
-- [3팀_name]()
+- [3팀_PUBG visualization](https://www.kaggle.com/code/alstn38/pubg-prediction-beginner-s-practice-korean)
 - [4팀_name]()
 
 ## 개인 노트북
@@ -24,7 +24,7 @@
 - [유정수](https://www.kaggle.com/code/ryujungsoo/faang-stocks-covid19)     
         
 ### 3팀 : PUBG Finish Placement Prediction (Kernels Only)
-- [강민수]()
+- [강민수](https://www.kaggle.com/code/alstn38/pubg-prediction-beginner-s-practice-korean)
 - [강인영](https://www.kaggle.com/code/inyeongkang/pubg-only-eda)
 - [김용현](https://www.kaggle.com/code/mirhyun0508/pubg-eda-and-visualization)
 - [최원서](https://www.kaggle.com/code/cwonseo/smarcle-ai-kaggle-study-pubg-cws)
