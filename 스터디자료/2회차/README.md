@@ -26,7 +26,7 @@
 ### 3팀 : PUBG Finish Placement Prediction (Kernels Only)
 - [강민수]()
 - [강인영](https://www.kaggle.com/code/inyeongkang/pubg-only-eda)
-- [김용현]()
+- [김용현](https://www.kaggle.com/code/mirhyun0508/pubg-eda-and-visualization)
 - [최원서](https://www.kaggle.com/code/cwonseo/smarcle-ai-kaggle-study-pubg-cws)
 
 ### 4팀 : Heart Failure Prediction
