@@ -24,7 +24,7 @@
 - [유정수]()     
         
 ### 3팀 : dataset
-- [강민수]()
+- [강민수](https://www.kaggle.com/code/alstn38/plant-seedings-classification-practice-from-beluga)
 - [강인영]()
 - [김용현]()
 - [최원서]()
