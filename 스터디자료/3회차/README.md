@@ -14,7 +14,7 @@
 - [김범주]()
 - [김수환]()
 - [김민솔]()
-- [이재표]()
+- [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-traffic-signs-classification-with-cnn)
 
 ### 2팀 : dataset
 - [정유찬]()
