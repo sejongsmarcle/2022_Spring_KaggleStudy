@@ -1,10 +1,10 @@
-# 2022 SMARCLE Kaggle Study 2회차 코드
+# 2022 SMARCLE Kaggle Study 3회차 코드
 
 
 ## 공유 노트북
 - [1팀_Traffic Signs Classification](https://www.kaggle.com/code/emilyjiminroh/cnn-traffic-signs-classification-collabo-ver)
 - [2팀_name]()
-- [3팀_name]()
+- [3팀_Plant Seedlings Classification](https://www.kaggle.com/code/inyeongkang/simple-cnn-keras-for-beginners)
 - [4팀_[Team 4] CNN for Concrete Crack Image](https://www.kaggle.com/code/formeforu/team-4-cnn-for-concrete-crack-image?scriptVersionId=95750095)
 
 ## 개인 노트북
@@ -25,7 +25,7 @@
         
 ### 3팀 : dataset
 - [강민수]()
-- [강인영]()
+- [강인영](https://www.kaggle.com/code/inyeongkang/simple-cnn-keras-for-beginners)
 - [김용현]()
 - [최원서]()
 
