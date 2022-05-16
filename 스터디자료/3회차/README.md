@@ -5,7 +5,7 @@
 - [1팀_name]()
 - [2팀_name]()
 - [3팀_name]()
-- [4팀_name]()
+- [4팀_[Team 4] CNN for Concrete Crack Image](https://www.kaggle.com/code/formeforu/team-4-cnn-for-concrete-crack-image?scriptVersionId=95750095)
 
 ## 개인 노트북
 
