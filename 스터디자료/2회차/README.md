@@ -5,7 +5,7 @@
 - [1팀_netflix-dataset](https://www.kaggle.com/code/emilyjiminroh/netflix-dataset-eda-visualization-team1)
 - [2팀_FAANG stocks covid19 study 2 team](https://www.kaggle.com/code/junguchan/faang-stocks-covid19-study-2-team)
 - [3팀_PUBG visualization](https://www.kaggle.com/code/alstn38/pubg-prediction-beginner-s-practice-korean)
-- [4팀_[Team 4] Visualization for Heart Failure Dataset](https://www.kaggle.com/code/formeforu/team-4-visualization-for-heart-failure-dataset)
+- [4팀_Visualization for Heart Failure Dataset](https://www.kaggle.com/code/formeforu/team-4-visualization-for-heart-failure-dataset)
 
 ## 개인 노트북
 
@@ -30,9 +30,9 @@
 - [최원서](https://www.kaggle.com/code/cwonseo/smarcle-ai-kaggle-study-pubg-cws)
 
 ### 4팀 : Heart Failure Prediction
-- [송지원]()
+- [송지원](https://www.kaggle.com/code/song3song/smc-heart-failure)
 - [유지원](https://www.kaggle.com/code/jiyajiwon/visualization-heart-failure-prediction)
-- [유혁재]()
-- [김병주]()
-- [한규탁]()
+- [유혁재](https://www.kaggle.com/code/dbgurwo/smarcle-2nd-4)
+- [김병주](https://www.kaggle.com/code/byeongz/smarcle-week3)
+- [한규탁](https://www.kaggle.com/code/formeforu/smarcle-w2-heart-failure-eda-visualization)
 
