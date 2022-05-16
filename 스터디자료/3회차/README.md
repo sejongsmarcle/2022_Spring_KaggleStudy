@@ -2,7 +2,7 @@
 
 
 ## 공유 노트북
-- [1팀_name]()
+- [1팀_Traffic Signs Classification](https://www.kaggle.com/code/emilyjiminroh/cnn-traffic-signs-classification-collabo-ver)
 - [2팀_name]()
 - [3팀_name]()
 - [4팀_[Team 4] CNN for Concrete Crack Image](https://www.kaggle.com/code/formeforu/team-4-cnn-for-concrete-crack-image?scriptVersionId=95750095)
