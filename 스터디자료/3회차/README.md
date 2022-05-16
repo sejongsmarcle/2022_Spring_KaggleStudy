@@ -10,7 +10,7 @@
 ## 개인 노트북
 
 ### 1팀 : dataset
-- [노지민]()
+- [노지민](https://www.kaggle.com/code/emilyjiminroh/cnn-traffic-signs-classification-with-explanation)
 - [김범주]()
 - [김수환]()
 - [김민솔]()
