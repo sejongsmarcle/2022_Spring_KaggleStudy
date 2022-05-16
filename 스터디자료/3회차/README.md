@@ -27,7 +27,7 @@
 - [강민수]()
 - [강인영](https://www.kaggle.com/code/inyeongkang/simple-cnn-keras-for-beginners)
 - [김용현]()
-- [최원서]()
+- [최원서](https://www.kaggle.com/code/cwonseo/smarcle-cnn-cws)
 
 ### 4팀 : Surface Crack Detection
 - [송지원](https://www.kaggle.com/code/song3song/smc-detection-of-surface-crack-feat-cnn)
