@@ -9,7 +9,7 @@
 
 ## 개인 노트북
 
-### 1팀 : dataset
+### 1팀 : Traffic Signs Classification
 - [노지민](https://www.kaggle.com/code/emilyjiminroh/cnn-traffic-signs-classification-with-explanation)
 - [김범주]()
 - [김수환](https://www.kaggle.com/code/swan706/cnn-traffic-signs-classification)
