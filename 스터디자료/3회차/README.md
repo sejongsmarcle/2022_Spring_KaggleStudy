@@ -16,8 +16,8 @@
 - [김민솔]()
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-traffic-signs-classification-with-cnn)
 
-### 2팀 : dataset
-- [정유찬]()
+### 2팀 : Dogs vs. Cats
+- [정유찬](https://www.kaggle.com/code/junguchan/cat-dag-with-cnn)
 - [이용빈]()
 - [김지은](https://www.kaggle.com/code/kimdobby/dogs-vs-cats-with-cnn/notebook)
 - [전주혁]()
