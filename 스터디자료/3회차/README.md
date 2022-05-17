@@ -12,7 +12,7 @@
 ### 1팀 : dataset
 - [노지민](https://www.kaggle.com/code/emilyjiminroh/cnn-traffic-signs-classification-with-explanation)
 - [김범주]()
-- [김수환]()
+- [김수환](https://www.kaggle.com/code/swan706/cnn-traffic-signs-classification)
 - [김민솔]()
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-traffic-signs-classification-with-cnn)
 
