@@ -18,7 +18,7 @@
 
 ### 2팀 : Dogs vs. Cats
 - [정유찬](https://www.kaggle.com/code/junguchan/cat-dag-with-cnn)
-- [이용빈]()
+- [이용빈](https://www.kaggle.com/code/leeyongbin/it-rainning-cat-and-dog-cnn)
 - [김지은](https://www.kaggle.com/code/kimdobby/dogs-vs-cats-with-cnn/notebook)
 - [전주혁]()
 - [유정수]()     
