@@ -11,9 +11,9 @@
 
 ### 1팀 : Traffic Signs Classification
 - [노지민](https://www.kaggle.com/code/emilyjiminroh/cnn-traffic-signs-classification-with-explanation)
-- [김범주]()
+- [김범주](https://www.kaggle.com/code/kimbumju/cnn-traffic-signs/notebook)
 - [김수환](https://www.kaggle.com/code/swan706/cnn-traffic-signs-classification)
-- [김민솔]()
+- [김민솔](https://www.kaggle.com/code/kimminsol/notebookdebc28ca62/edit)
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-traffic-signs-classification-with-cnn)
 
 ### 2팀 : Dogs vs. Cats
