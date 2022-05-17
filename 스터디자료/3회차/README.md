@@ -21,7 +21,7 @@
 - [이용빈](https://www.kaggle.com/code/leeyongbin/it-rainning-cat-and-dog-cnn)
 - [김지은](https://www.kaggle.com/code/kimdobby/dogs-vs-cats-with-cnn/notebook)
 - [전주혁](https://www.kaggle.com/code/wngur0313/notebookacb4d84544)
-- [유정수]()     
+- [유정수](https://www.kaggle.com/code/ryujungsoo/cat-vs-dog-cnn/notebook)     
         
 ### 3팀 : Plant Seedlings Classification
 - [강민수](https://www.kaggle.com/code/alstn38/plant-seedings-classification-practice-from-beluga)
