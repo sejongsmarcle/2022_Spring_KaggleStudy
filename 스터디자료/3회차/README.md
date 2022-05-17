@@ -23,7 +23,7 @@
 - [전주혁]()
 - [유정수]()     
         
-### 3팀 : dataset
+### 3팀 : Plant Seedlings Classification
 - [강민수]()
 - [강인영](https://www.kaggle.com/code/inyeongkang/simple-cnn-keras-for-beginners)
 - [김용현]()
