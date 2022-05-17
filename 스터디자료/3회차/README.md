@@ -26,7 +26,7 @@
 ### 3팀 : Plant Seedlings Classification
 - [강민수](https://www.kaggle.com/code/alstn38/plant-seedings-classification-practice-from-beluga)
 - [강인영](https://www.kaggle.com/code/inyeongkang/simple-cnn-keras-for-beginners)
-- [김용현]()
+- [김용현](https://www.kaggle.com/code/mirhyun0508/plant-seedlings-classification-with-cnn)
 - [최원서](https://www.kaggle.com/code/cwonseo/smarcle-cnn-cws)
 
 ### 4팀 : Surface Crack Detection
