@@ -20,7 +20,7 @@
 - [정유찬](https://www.kaggle.com/code/junguchan/cat-dag-with-cnn)
 - [이용빈](https://www.kaggle.com/code/leeyongbin/it-rainning-cat-and-dog-cnn)
 - [김지은](https://www.kaggle.com/code/kimdobby/dogs-vs-cats-with-cnn/notebook)
-- [전주혁]()
+- [전주혁](https://www.kaggle.com/code/wngur0313/notebookacb4d84544)
 - [유정수]()     
         
 ### 3팀 : Plant Seedlings Classification
