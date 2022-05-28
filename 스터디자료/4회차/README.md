@@ -33,5 +33,5 @@
 - [송지원](https://www.kaggle.com/code/song3song/smc-disaster-tweets-feat-nlp?scriptVersionId=96794213)
 - [유지원]()
 - [유혁재]()
-- [한규탁]()
+- [한규탁](https://www.kaggle.com/code/formeforu/smarcle-w4-disaster-tweets/notebook?scriptVersionId=96793964)
 
