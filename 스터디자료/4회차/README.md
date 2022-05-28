@@ -31,7 +31,8 @@
 
 ### 4팀 : dataset
 - [송지원](https://www.kaggle.com/code/song3song/smc-disaster-tweets-feat-nlp?scriptVersionId=96794213)
-- [유지원]()
+- [유지원](https://www.kaggle.com/jiyajiwon/predict-disaster-tweet-with-nlp)
 - [유혁재]()
 - [한규탁](https://www.kaggle.com/code/formeforu/smarcle-w4-disaster-tweets/notebook?scriptVersionId=96793964)
+- [김병주]()
 
