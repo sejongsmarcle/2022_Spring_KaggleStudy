@@ -34,5 +34,5 @@
 - [유지원](https://www.kaggle.com/jiyajiwon/predict-disaster-tweet-with-nlp)
 - [유혁재](https://www.kaggle.com/dbgurwo/smc-basic-eda-cleaning-and-glove)
 - [한규탁](https://www.kaggle.com/code/formeforu/smarcle-w4-disaster-tweets/notebook?scriptVersionId=96793964)
-- [김병주]()
+- [김병주](https://www.kaggle.com/byeongz/smarcle-nlp-w4)
 
