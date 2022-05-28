@@ -30,7 +30,7 @@
 - [최원서]()
 
 ### 4팀 : dataset
-- [송지원](https://www.kaggle.com/code/song3song/notebook0e904ba81b/edit/run/96791099)
+- [송지원](https://www.kaggle.com/code/song3song/notebook0e904ba81b)
 - [유지원]()
 - [유혁재]()
 - [한규탁]()
