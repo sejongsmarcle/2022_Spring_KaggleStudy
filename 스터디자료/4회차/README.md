@@ -19,7 +19,7 @@
 ### 2팀 : dataset
 - [정유찬]()
 - [이용빈]()
-- [김지은]()
+- [김지은](https://www.kaggle.com/code/kimdobby/sms-spam-with-nlp)
 - [전주혁]()
 - [유정수]()     
         
