@@ -12,7 +12,7 @@
 ### 1팀 : dataset
 - [노지민]()
 - [김범주]()
-- [김수환]()
+- [김수환](https://www.kaggle.com/code/swan706/sms-spam-nlp)
 - [김민솔]()
 - [이재표]()
 
