@@ -4,7 +4,7 @@
 ## 공유 노트북
 - [1팀_SMS-spam-dataset](https://www.kaggle.com/code/jaepyo99/sms-spam-collection-dataset-with-nlp)
 - [2팀_name]()
-- [3팀_name]()
+- [3팀_name](https://www.kaggle.com/code/cwonseo/smarcle-kaggle-study-disaster-tweets)
 - [4팀_name]()
 
 ## 개인 노트북
