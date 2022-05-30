@@ -1,8 +1,8 @@
-# 2022 SMARCLE Kaggle Study 4회차 코드
+# 2022 SMARCLE Kaggle Study NLP 4회차 코드
 
 
 ## 공유 노트북
-- [1팀_name]()
+- [1팀_SMS-spam-dataset](https://www.kaggle.com/code/jaepyo99/sms-spam-collection-dataset-with-nlp)
 - [2팀_name]()
 - [3팀_name]()
 - [4팀_name]()
@@ -10,11 +10,11 @@
 ## 개인 노트북
 
 ### 1팀 : dataset
-- [노지민]()
-- [김범주]()
+- [노지민](https://www.kaggle.com/code/emilyjiminroh/sms-spam-collection-dataset-with-nlp/notebook)
+- [김범주](https://www.kaggle.com/kimbumju/natural-language-processing-nlp-for-be-59406c)
 - [김수환](https://www.kaggle.com/code/swan706/sms-spam-nlp)
 - [김민솔]()
-- [이재표]()
+- [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-sms-spam-collection-with-nlp/notebook)
 
 ### 2팀 : dataset
 - [정유찬]()
