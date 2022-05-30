@@ -27,7 +27,7 @@
 - [강민수](https://www.kaggle.com/code/alstn38/natural-language-processing-nlp-from-fares-sayah)
 - [강인영]()
 - [김용현]()
-- [최원서]()
+- [최원서](https://www.kaggle.com/code/cwonseo/smarcle-kaggle-study-disaster-tweets)
 
 ### 4팀 : dataset
 - [송지원](https://www.kaggle.com/code/song3song/smc-disaster-tweets-feat-nlp?scriptVersionId=96794213)
