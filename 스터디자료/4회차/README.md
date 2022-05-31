@@ -17,7 +17,7 @@
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-sms-spam-collection-with-nlp/notebook)
 
 ### 2팀 : SMS-spam-dataset
-- [정유찬]()
+- [정유찬](https://www.kaggle.com/code/junguchan/sms-data-set)
 - [이용빈](https://www.kaggle.com/code/leeyongbin/spam-mail-collector)
 - [김지은](https://www.kaggle.com/code/kimdobby/sms-spam-with-nlp)
 - [전주혁]()
