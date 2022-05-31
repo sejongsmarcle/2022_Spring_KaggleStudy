@@ -3,7 +3,7 @@
 
 ## 공유 노트북
 - [1팀_SMS-spam-dataset](https://www.kaggle.com/code/jaepyo99/sms-spam-collection-dataset-with-nlp)
-- [2팀_name]()
+- [2팀_Spam collection with NLP ae2692](https://www.kaggle.com/code/junguchan/spam-collection-with-nlp-ae2692)
 - [3팀_NLP with Disaster Tweets](https://www.kaggle.com/code/cwonseo/smarcle-kaggle-study-disaster-tweets)
 - [4팀_name]()
 
@@ -16,9 +16,9 @@
 - [김민솔]()
 - [이재표](https://www.kaggle.com/code/jaepyo99/smarcle-sms-spam-collection-with-nlp/notebook)
 
-### 2팀 : 
+### 2팀 : SMS-spam-dataset
 - [정유찬]()
-- [이용빈]()
+- [이용빈](https://www.kaggle.com/code/leeyongbin/spam-mail-collector)
 - [김지은](https://www.kaggle.com/code/kimdobby/sms-spam-with-nlp)
 - [전주혁]()
 - [유정수]()     
