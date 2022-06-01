@@ -54,7 +54,7 @@ ex) 1팀은 2팀, 3팀은  4팀 끼리 서로 comments 교환 (매 주차 랜덤
 | 1 | 3/29 | EDA + 전처리 -> pandas, numpy, sklean, keras, tensorflow... | [1회차](https://youtu.be/L0VpFwcGx1s) |
 | 2 | 5/3 | 시각화 -> 1 + matplotlib, seaborn... | [2회차](https://youtu.be/xl-uufmYwLs) |
 | 3 | 5/17 | 모델링 -> 1~2 + 머신러닝 or 딥러닝 | [3회차](https://youtu.be/sDKjos0npfQ) |
-| 4 |  5/31 | 모델링 -> 1~3 + 머신러닝 or 딥러닝 | xx |
+| 4 |  5/31 | 모델링 -> 1~3 + 머신러닝 or 딥러닝 | [4회차](https://www.youtube.com/watch?v=E19PHjvP5d8) |
 
 * 1~2회차까지는 **자유 주제**로 각 팀별로 데이터 셋을 준비
 * 3~4회차는 미리 사전에 카테고리를 투표하고 주어진 데이터 셋을 제공 후, 선정해서 준비
