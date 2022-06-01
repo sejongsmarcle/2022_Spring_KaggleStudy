@@ -5,7 +5,7 @@
 - [1팀_SMS-spam-dataset](https://www.kaggle.com/code/jaepyo99/sms-spam-collection-dataset-with-nlp)
 - [2팀_Spam collection with NLP ae2692](https://www.kaggle.com/code/junguchan/spam-collection-with-nlp-ae2692)
 - [3팀_NLP with Disaster Tweets](https://www.kaggle.com/code/cwonseo/smarcle-kaggle-study-disaster-tweets)
-- [4팀_name]()
+- [4팀_Natural Language Processing with Disaster Tweets](https://www.kaggle.com/code/song3song/smc-disaster-tweets-feat-nlp)
 
 ## 개인 노트북
 
@@ -34,5 +34,5 @@
 - [유지원](https://www.kaggle.com/jiyajiwon/predict-disaster-tweet-with-nlp)
 - [유혁재](https://www.kaggle.com/dbgurwo/smc-basic-eda-cleaning-and-glove)
 - [한규탁](https://www.kaggle.com/code/formeforu/smarcle-w4-disaster-tweets/notebook?scriptVersionId=96793964)
-- [김병주]()
+- [김병주](https://www.kaggle.com/code/byeongz/smarcle-nlp-w4)
 
