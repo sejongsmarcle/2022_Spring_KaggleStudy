@@ -21,7 +21,7 @@
 - [이용빈](https://www.kaggle.com/code/leeyongbin/spam-mail-collector)
 - [김지은](https://www.kaggle.com/code/kimdobby/sms-spam-with-nlp)
 - [전주혁]()
-- [유정수]()     
+- [유정수](https://www.kaggle.com/code/ryujungsoo/sms-spam-collection-dataset)     
         
 ### 3팀 : NLP with Disaster Tweets
 - [강민수](https://www.kaggle.com/code/alstn38/natural-language-processing-nlp-from-fares-sayah)
